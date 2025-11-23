@@ -12,7 +12,7 @@ export const PROJECTS: Project[] = [
   {
     id: 1,
     title: "Breve Curriculum Page",
-    description: "mi Currículum Vitae en formato de página web, desarrollado para presentar de manera profesional y visualmente atractiva mi perfil, experiencia, habilidades y proyectos.",
+    description: "Mi Curriculum vitae en formato de página web, desarrollado para presentar de manera profesional y visualmente atractiva mi perfil, experiencia, habilidades y proyectos.",
     techStack: ["HTML", "CSS", "JavaScript"],
     imageUrl: breveCurriculumImg,
     demoUrl: "https://brevecurriculum.netlify.app",
@@ -39,7 +39,7 @@ export const PROJECTS: Project[] = [
   {
     id: 4,
     title: "Sitio Web de Noticias Tecnológicas",
-    description: "Es un sitio web estático de noticias de tegnología en gerenal y con especial interés en: HPC, Software Libre, Linux y Distribuciones Linux para servidores.",
+    description: "Es un sitio web estático de noticias de tecnología en general y con especial interés en: HPC, Software Libre, Linux y Distribuciones Linux para servidores.",
     techStack: ["HTML", "CSS", "JavaScript", "SCSS"],
     imageUrl: noticiasImg,
     demoUrl: "https://lainerdonet.github.io/noticiastec.github.io",
@@ -60,15 +60,15 @@ export const EXPERIENCE: ExperienceItem[] = [
   {
     id: 1,
     role: "Junior Front-end Developer",
-    company: "Escuela Britanica de Artes Creativas y Tecnología",
+    company: "Escuela Británica de Artes Creativas y Tecnología",
     period: "2025 - Presente",
-    description: "Desarrollo de sitios web como parte de la enseñanza de la programación Front-end. Implementación de herremientas de programación Front-end actualizadas."
+    description: "Desarrollo de sitios web como parte de la enseñanza de la programación Front-end. Implementación de herramientas de programación Front-end actualizadas."
   },
   {
     id: 2,
     role: "HPC Specialist",
     company: "LUFAC Company",
     period: "2021 - Presente",
-    description: "Desarrollo de herramientas de supercomputo para la investigación en física y matemáticas. Administración de clusters de supercomputo de Alto Rendimiento y alta disponibilidad."
+    description: "Desarrollo de herramientas de supercómputo para la investigación en física y matemáticas. Administración de clústeres de supercómputo de Alto Rendimiento y alta disponibilidad."
   }
 ];
